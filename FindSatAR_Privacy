@@ -1,0 +1,6 @@
+# Privacy
+## Used Permission 
+* android.permission.CAMERA
+## Where and Why
+* User click the AR floating button at the first screen of the APP, enter AR mode.
+* The APP use google ARCore sdk, to show antenna dish in a real world through camera.
